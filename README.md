@@ -1,6 +1,6 @@
 # Web DAST - Pruebas de Seguridad Automatizadas con OWASP ZAP
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/jhneira-sol/zap-web-dast/main.yml?branch=main&label=DAST%20Scan)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Neivoc/zap-web-dast/main.yml?branch=main&label=DAST%20Scan)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![OWASP](https://img.shields.io/badge/OWASP-ZAP-blue)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF)
@@ -85,7 +85,7 @@ graph LR
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/jhneira-sol/zap-web-dast.git
+git clone https://github.com/Neivoc/zap-web-dast.git
 cd zap-web-dast
 ```
 
